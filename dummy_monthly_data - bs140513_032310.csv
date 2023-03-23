@@ -1,43 +1,254 @@
-category,amount,date,n
-es_hyper',4.55,3/12/2023,1
-es_home',39.68,3/30/2023,2
-es_travel',26.89,3/4/2023,3
-es_contents',17.25,3/6/2023,4
-es_hyper',35.72,3/31/2023,5
-es_hotelservices',25.81,3/25/2023,6
-es_travel',9.1,3/4/2023,7
-es_sportsandtoys',21.17,3/8/2023,8
-es_home',32.4,3/13/2023,9
-es_wellnessandbeauty',35.4,3/14/2023,10
-es_contents',14.95,3/11/2023,11
-es_wellnessandbeauty',1.51,3/1/2023,12
-es_otherservices',68.79,3/11/2023,13
-es_hotelservices',20.32,3/21/2023,14
-es_tech',13.56,3/11/2023,15
-es_fashion',30.19,3/16/2023,16
-es_travel',17.54,3/29/2023,17
-es_leisure',40.69,3/4/2023,18
-es_barsandrestaurants',21.21,3/29/2023,19
-es_hyper',10.09,3/28/2023,20
-es_fashion',19.31,3/25/2023,21
-es_contents',44.22,3/10/2023,22
-es_travel',44.39,3/28/2023,23
-es_health',30.72,3/15/2023,24
-es_tech',29.84,3/8/2023,25
-es_barsandrestaurants',12.1,3/14/2023,26
-es_travel',24.84,3/12/2023,27
-es_contents',16.42,3/7/2023,28
-es_food',2.19,3/13/2023,29
-es_hotelservices',32.27,3/2/2023,30
-es_home',28.09,3/22/2023,31
-es_barsandrestaurants',16.13,3/18/2023,32
-es_sportsandtoys',32.7,3/4/2023,33
-es_hotelservices',25.53,3/10/2023,34
-es_travel',39.22,3/29/2023,35
-es_fashion',46.14,3/20/2023,36
-es_travel',29.55,3/12/2023,37
-es_hotelservices',36.88,3/21/2023,38
-es_barsandrestaurants',36.15,3/4/2023,39
-es_leisure',2.81,3/15/2023,40
-es_sportsandtoys',87.67,3/3/2023,41
-es_sportsandtoys',11.17,3/15/2023,42
+[
+  {
+    "category": "es_hyper'",
+    "amount": 4.55,
+    "date": "3/12/2023",
+    "n": 1
+  },
+  {
+    "category": "es_home'",
+    "amount": 39.68,
+    "date": "3/30/2023",
+    "n": 2
+  },
+  {
+    "category": "es_travel'",
+    "amount": 26.89,
+    "date": "3/4/2023",
+    "n": 3
+  },
+  {
+    "category": "es_contents'",
+    "amount": 17.25,
+    "date": "3/6/2023",
+    "n": 4
+  },
+  {
+    "category": "es_hyper'",
+    "amount": 35.72,
+    "date": "3/31/2023",
+    "n": 5
+  },
+  {
+    "category": "es_hotelservices'",
+    "amount": 25.81,
+    "date": "3/25/2023",
+    "n": 6
+  },
+  {
+    "category": "es_travel'",
+    "amount": 9.1,
+    "date": "3/4/2023",
+    "n": 7
+  },
+  {
+    "category": "es_sportsandtoys'",
+    "amount": 21.17,
+    "date": "3/8/2023",
+    "n": 8
+  },
+  {
+    "category": "es_home'",
+    "amount": 32.4,
+    "date": "3/13/2023",
+    "n": 9
+  },
+  {
+    "category": "es_wellnessandbeauty'",
+    "amount": 35.4,
+    "date": "3/14/2023",
+    "n": 10
+  },
+  {
+    "category": "es_contents'",
+    "amount": 14.95,
+    "date": "3/11/2023",
+    "n": 11
+  },
+  {
+    "category": "es_wellnessandbeauty'",
+    "amount": 1.51,
+    "date": "3/1/2023",
+    "n": 12
+  },
+  {
+    "category": "es_otherservices'",
+    "amount": 68.79,
+    "date": "3/11/2023",
+    "n": 13
+  },
+  {
+    "category": "es_hotelservices'",
+    "amount": 20.32,
+    "date": "3/21/2023",
+    "n": 14
+  },
+  {
+    "category": "es_tech'",
+    "amount": 13.56,
+    "date": "3/11/2023",
+    "n": 15
+  },
+  {
+    "category": "es_fashion'",
+    "amount": 30.19,
+    "date": "3/16/2023",
+    "n": 16
+  },
+  {
+    "category": "es_travel'",
+    "amount": 17.54,
+    "date": "3/29/2023",
+    "n": 17
+  },
+  {
+    "category": "es_leisure'",
+    "amount": 40.69,
+    "date": "3/4/2023",
+    "n": 18
+  },
+  {
+    "category": "es_barsandrestaurants'",
+    "amount": 21.21,
+    "date": "3/29/2023",
+    "n": 19
+  },
+  {
+    "category": "es_hyper'",
+    "amount": 10.09,
+    "date": "3/28/2023",
+    "n": 20
+  },
+  {
+    "category": "es_fashion'",
+    "amount": 19.31,
+    "date": "3/25/2023",
+    "n": 21
+  },
+  {
+    "category": "es_contents'",
+    "amount": 44.22,
+    "date": "3/10/2023",
+    "n": 22
+  },
+  {
+    "category": "es_travel'",
+    "amount": 44.39,
+    "date": "3/28/2023",
+    "n": 23
+  },
+  {
+    "category": "es_health'",
+    "amount": 30.72,
+    "date": "3/15/2023",
+    "n": 24
+  },
+  {
+    "category": "es_tech'",
+    "amount": 29.84,
+    "date": "3/8/2023",
+    "n": 25
+  },
+  {
+    "category": "es_barsandrestaurants'",
+    "amount": 12.1,
+    "date": "3/14/2023",
+    "n": 26
+  },
+  {
+    "category": "es_travel'",
+    "amount": 24.84,
+    "date": "3/12/2023",
+    "n": 27
+  },
+  {
+    "category": "es_contents'",
+    "amount": 16.42,
+    "date": "3/7/2023",
+    "n": 28
+  },
+  {
+    "category": "es_food'",
+    "amount": 2.19,
+    "date": "3/13/2023",
+    "n": 29
+  },
+  {
+    "category": "es_hotelservices'",
+    "amount": 32.27,
+    "date": "3/2/2023",
+    "n": 30
+  },
+  {
+    "category": "es_home'",
+    "amount": 28.09,
+    "date": "3/22/2023",
+    "n": 31
+  },
+  {
+    "category": "es_barsandrestaurants'",
+    "amount": 16.13,
+    "date": "3/18/2023",
+    "n": 32
+  },
+  {
+    "category": "es_sportsandtoys'",
+    "amount": 32.7,
+    "date": "3/4/2023",
+    "n": 33
+  },
+  {
+    "category": "es_hotelservices'",
+    "amount": 25.53,
+    "date": "3/10/2023",
+    "n": 34
+  },
+  {
+    "category": "es_travel'",
+    "amount": 39.22,
+    "date": "3/29/2023",
+    "n": 35
+  },
+  {
+    "category": "es_fashion'",
+    "amount": 46.14,
+    "date": "3/20/2023",
+    "n": 36
+  },
+  {
+    "category": "es_travel'",
+    "amount": 29.55,
+    "date": "3/12/2023",
+    "n": 37
+  },
+  {
+    "category": "es_hotelservices'",
+    "amount": 36.88,
+    "date": "3/21/2023",
+    "n": 38
+  },
+  {
+    "category": "es_barsandrestaurants'",
+    "amount": 36.15,
+    "date": "3/4/2023",
+    "n": 39
+  },
+  {
+    "category": "es_leisure'",
+    "amount": 2.81,
+    "date": "3/15/2023",
+    "n": 40
+  },
+  {
+    "category": "es_sportsandtoys'",
+    "amount": 87.67,
+    "date": "3/3/2023",
+    "n": 41
+  },
+  {
+    "category": "es_sportsandtoys'",
+    "amount": 11.17,
+    "date": "3/15/2023",
+    "n": 42
+  }
+]
